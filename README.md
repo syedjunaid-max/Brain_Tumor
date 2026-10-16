@@ -139,3 +139,6 @@ If you want to improve this project, you can extend it with:
 - model checkpointing
 - deployment as a web app or API
 - 3D MRI segmentation support
+
+
+
